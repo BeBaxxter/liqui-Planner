@@ -1,5 +1,5 @@
 # NickelDuck - A Javascript Liquidplanner
-Simple Liquiplanner to teach myself Javascript. Its nothing more...
+Simple Liquiplanner to learn Javascript.
 
 # Credits
 HTML / CSS template from https://github.com/RubenWinkler.
